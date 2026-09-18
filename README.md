@@ -4,4 +4,4 @@ A small demo where the program uses your camera to detect certain gestures, whic
 
 _Gesture demo old_ is an old file for testing and backup purposes only. If you only want to try out the product I recommend to use gesture_project.py and gesture_logs.csv
 
-Follow instructions on gesture_project.py to install and get working (you can install it from the releases page
+Follow instructions on gesture_project.py to install and get working (you can install it from the releases page)
